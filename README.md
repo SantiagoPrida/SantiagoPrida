@@ -1,6 +1,5 @@
-### Bienvenidos a mi perfil
-
 <div id="header" align="center">
+  ### Bienvenidos a mi perfil
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <!--
