@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h3>>> Bienvenido a mi perfil <<</h3>
-  <img src="https://giphy.com/clips/originals-hacker-desi-hackette-lu01tsQqf1mJuHrFVq" width="100"/>
+  <img src="https://giphy.com/embed/lu01tsQqf1mJuHrFVq/video" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
