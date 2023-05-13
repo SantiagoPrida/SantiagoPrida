@@ -12,13 +12,16 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=PantuflaGaming&style=flat-square&color=blue" alt=""/>
 </div>
-
----
-
 <h1 align="center">
   Bienvenidos a mi perfil
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <!--
 **PantuflaGaming/PantuflaGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
