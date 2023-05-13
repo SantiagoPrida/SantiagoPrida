@@ -37,7 +37,7 @@ I started programming a year ago with Python after starting my Systems Engineeri
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?PantuflaGaming&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PantuflaGaming&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **PantuflaGaming/PantuflaGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
