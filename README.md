@@ -13,9 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=PantuflaGaming&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  Welcome to my Profile
-  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Welcome to my Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ---
