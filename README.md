@@ -25,6 +25,14 @@
 
 ### :woman_technologist: About Me 
 My name is **Santiago Prida** and I am 21 years old. I consider myself a lover of technology and programming, not because of its use, but because of its magnitude of creation and elaboration of solutions to solve one or more problems. I am currently the founder of **SectorV** <img src="https://imgur.com/PsaLhGo.png" width="20"> RageMP server in GTA V which is currently under development.
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 <!--
 **PantuflaGaming/PantuflaGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
