@@ -25,8 +25,7 @@
 ### :woman_technologist: About Me 
 My name is **Santiago Prida** and I am 21 years old. I consider myself a lover of technology and programming, not because of its use, but because of its magnitude of creation and elaboration of solutions to solve one or more problems.
 I started programming a year ago with Python after starting my Systems Engineering degree and from there I started with other languages like HTML, CSS and JavaScript. I am currently the founder of **SectorV** <img src="https://imgur.com/PsaLhGo.png" width="20"> RageMP server in GTA V which is currently under development. I am currently studying at ISP N20 a technical degree in software development. <img src="https://imgur.com/lkOK5pQ.png" width="32">
-<br>
-  <img src="https://imgur.com/lkOK5pQ.png" width="64"> I am currently studying at ISP N20 a technical degree in software development.
+
 <br>
 <br>
 
