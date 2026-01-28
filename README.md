@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="90" />
   
   # Hi, I'm Santiago Prida 👋
-  ### Software Developer · Tech Enthusiast · Problem Solver
+  ### Software Developer · Tech Lead Mindset · Startup Co-Founder
   
   <p>
-    Building scalable solutions with code, design and purpose.
+    Building scalable software, automation and digital products with real impact.
   </p>
 
   <a href="https://www.linkedin.com/in/santiagoprida">
@@ -21,11 +21,12 @@
 
 ## 🚀 About Me
 
-I'm **Santiago Prida**, a software developer passionate about building technology that **solves real problems**.
+I'm **Santiago Prida**, a software developer and **Co-Founder of LATAMWare**, a company focused on **custom software development and intelligent automation**.
 
-I approach programming not just as a technical skill, but as a **tool to design systems, optimize processes, and create scalable solutions**. My journey started with Python during my Systems Engineering studies and quickly expanded into web technologies and modern development workflows.
+I build products with a strong focus on **scalability, performance and clean architecture**, combining engineering thinking with product and business vision.
 
-Currently working at **BENGROU**, where I contribute to real-world projects while continuously improving my technical and analytical skills.
+My journey started with Python during my Systems Engineering studies and evolved into modern web and backend technologies.  
+Currently working at **Bengroup**, contributing to real-world projects while continuously refining my technical and architectural skills.
 
 ---
 
@@ -35,12 +36,22 @@ Currently working at **BENGROU**, where I contribute to real-world projects whil
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40"/>
 </p>
 
 ### Frontend
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40"/>
+</p>
+
+### Backend & Data
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="40"/>
 </p>
 
 ### Tools & Workflow
@@ -65,9 +76,9 @@ Currently working at **BENGROU**, where I contribute to real-world projects whil
 
 ## 🤝 Let’s Connect
 
-If you're interested in:
-- Building products
-- Collaborating on projects
-- Talking about tech, startups or ideas
+Interested in:
+- Custom software & automation
+- Scalable web platforms
+- Startup collaboration
 
-Feel free to reach out 🚀
+Let’s build something meaningful 🚀
