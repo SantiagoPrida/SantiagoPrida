@@ -1,57 +1,73 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="90" />
+  
+  # Hi, I'm Santiago Prida 👋
+  ### Software Developer · Tech Enthusiast · Problem Solver
+  
+  <p>
+    Building scalable solutions with code, design and purpose.
+  </p>
+
   <a href="https://www.linkedin.com/in/santiagoprida">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[test](https://www.instagram.com/saantyp)">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.instagram.com/saantyp">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=SantiagoPrida&style=flat&color=0A66C2"/>
 </div>
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=PantuflaGaming&style=flat-square&color=blue" alt=""/>
-</div>
-<h1 align="center">
-  Welcome to my Profile <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJjN2Y5YjY3NDMyMjY4YTFiMGNlNTc0YjBiZThhMmNjYzNiZjA5OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+## 🚀 About Me
 
-### :woman_technologist: About Me 
-My name is **Santiago Prida** and I am 23 years old. I consider myself a lover of technology and programming, not because of its use, but because of its magnitude of creation and elaboration of solutions to solve one or more problems.
-I started programming a year ago with Python after starting my Systems Engineering degree and from there I started with other languages like HTML, CSS and JavaScript. I am currently studying at ISP N20 a technical degree in software development. <a href="http://isp20.edu.ar/nuevo/" target="_blank"><img src="https://imgur.com/lkOK5pQ.png" width="32" alt="ISP N°20 - LOGO"></a>
+I'm **Santiago Prida**, a software developer passionate about building technology that **solves real problems**.
 
-<br>
-<br>
+I approach programming not just as a technical skill, but as a **tool to design systems, optimize processes, and create scalable solutions**. My journey started with Python during my Systems Engineering studies and quickly expanded into web technologies and modern development workflows.
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+Currently working at **BENGROU**, where I contribute to real-world projects while continuously improving my technical and analytical skills.
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SantiagoPrida&theme=dracula&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoPrida&langs_count=10&theme=dracula&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<!--
-**PantuflaGaming/PantuflaGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
 
-Here are some ideas to get you started:
+### Languages
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/>
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SantiagoPrida&theme=dracula&border_radius=10"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoPrida&layout=compact&theme=dracula&border_radius=10"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+If you're interested in:
+- Building products
+- Collaborating on projects
+- Talking about tech, startups or ideas
+
+Feel free to reach out 🚀
